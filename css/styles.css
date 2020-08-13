@@ -1,0 +1,10 @@
+@media (min-width:768px) {
+	#navbar-brand{display: none;}
+}
+.nav-item{text-align:center;}
+#header-nav{background-color:grey;}
+button{font-size:150px;}
+h1{margin-left:-5%;}
+.navbar-brand{font-size:50px;}
+.col-md-11{background-color:grey;margin:1% auto 1%;}
+.col-xs-11{background-color: grey;margin:1% 5% 1% 5%;}
